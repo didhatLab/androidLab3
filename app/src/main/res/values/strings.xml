@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="search">Введите ключевые слова</string>
+    <string name="go_search">Поиск</string>
+    <string name="searh">Введите текст для поиска</string>
+    <string name="search_btn">Поиск</string>
+</resources>
